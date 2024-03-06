@@ -22,3 +22,4 @@ Prepare design specification? for "File Processor" (i.e. it should not be more t
 To run the script on any other machine need to update the **input_folder** and **output_folder** value at line no. 30 and 31 according to the developer/panelist.
 
 **input_folder** will contains the input file which needs to be processed.
+**DATA.dat** and **DATA1.dat **file should be used as input file.
